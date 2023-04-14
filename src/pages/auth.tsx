@@ -23,8 +23,8 @@ const Auth = () => {
             src="/images/logo.png"
             alt="Logo"
             className="h-12"
-            width={140}
-            height={70}
+            width={160}
+            height={75}
           />
         </nav>
         <div className="flex justify-center">
